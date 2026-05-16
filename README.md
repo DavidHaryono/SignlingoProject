@@ -70,8 +70,8 @@ If you prefer to run the application directly on your machine, follow these step
 
 * **a. Clone the Repository:**
     ```bash
-    git clone [https://github.com/AnangAyman/Software-engineering-S4.git](https://github.com/AnangAyman/Software-engineering-S4.git)
-    cd Software-engineering-S4
+    git clone [https://github.com/DavidHaryono/SignlingoProject.git](https://github.com/DavidHaryono/SignlingoProject.git)
+    cd SignlingoProject
     ```
 
 * **b. Create and Activate a Virtual Environment:**

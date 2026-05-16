@@ -118,3 +118,29 @@ If you prefer to run the application directly on your machine, follow these step
 2.  **Log In** with your new credentials.
 3.  You will be directed to the **Dashboard**, where you can start learning.
 4.  For the **Hand Sign Recognition** game, your browser will ask for permission to use your webcam. You must **Allow** it for the feature to work.
+
+## Project Contributions & Team Roles
+
+This project was built through a collaborative team effort. Responsibilities were divided across architectural layers to deliver a seamless gamified educational application:
+
+* **Muhammad Anang Ayman Ramadhana (Lead Backend Developer)**
+  * Established foundational backend server configuration frameworks, global application routing hierarchies, and core database management processes.
+  * Engineered centralized operational logic structures and authentication handlers to validate data exchange across active endpoints.
+  * Oversaw backend engineering processes, maintaining architectural standardizations and managing transactional consistency across shared system components.
+
+* **Benediktus Darmawan (Backend Developer)**
+  * Authored target database model relations, backend controller operations, and custom api path integrations to serve dynamic parameters.
+  * Generated database migration files and transaction tracking tables to safely record ongoing updates to relational schema properties.
+  * Developed dynamic endpoints to accurately transmit structured test items, updated scoring rules, and student state parameters.
+
+* **Nicholas Ho (Lead Frontend Developer)**
+  * Configured user experience structural templates and global layout systems across core entry screens.
+  * Spearheaded the initial template design guidelines, wireframe mapping, and primary visual style systems for the learning platform.
+  * Coordinated foundational asset compilation and standard interface styling rules across administrative views.
+
+* **David Alexander Haryono (Frontend Developer)**
+  * Architected and implemented key student-facing interfaces, including the gamified quiz layouts, the competitive friend leaderboard web views, and personalized profile management pages.
+  * Structured client-side styling definitions and interface templates to ensure uniform visual formatting across application views.
+  * Handled frontend-to-backend integration, establishing secure data links connecting interactive client elements directly to active server-side APIs.
+
+
